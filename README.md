@@ -5,7 +5,13 @@
 ---
 <p >
   <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=22&duration=1&pause=999999&color=F7F7F7&center=false&vCenter=true&width=300&lines=About+me">
+
 </p>
+
+
+---
+
+
 CS Student at helha 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
@@ -20,6 +26,10 @@ CS Student at helha
   <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=22&duration=1&pause=999999&color=F7F7F7&center=false&vCenter=true&width=300&lines=My+Socials">
 </p>
 
+
+
+---
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) <br>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) <br>
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
@@ -33,10 +43,11 @@ CS Student at helha
 
 
 ---
+
 <div display="flex">
 
-![](https://github-readme-stats.vercel.app/api?username=nicolasvpcharles&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvpcharles&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nicolasvpcharles&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvpcharles&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
  
  </div>
