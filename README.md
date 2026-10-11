@@ -44,7 +44,7 @@ CS Student at helha
 
 <div display="flex">
 
-![](https://github-readme-stats.vercel.app/api?username=nicolasvpcharles&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=nicolasvpcharles&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvpcharles&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
  
